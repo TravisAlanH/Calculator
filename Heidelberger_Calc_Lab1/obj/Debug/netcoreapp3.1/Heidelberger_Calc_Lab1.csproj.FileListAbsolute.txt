@@ -1,0 +1,15 @@
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\bin\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.exe
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\bin\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.deps.json
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\bin\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.runtimeconfig.json
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\bin\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.runtimeconfig.dev.json
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\bin\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.dll
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\bin\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.pdb
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.csprojAssemblyReference.cache
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.Form1.resources
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.csproj.GenerateResource.cache
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.AssemblyInfoInputs.cache
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.AssemblyInfo.cs
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.dll
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.pdb
+C:\Users\travi\source\repos\Heidelberger_Calc_Lab1\Heidelberger_Calc_Lab1\obj\Debug\netcoreapp3.1\Heidelberger_Calc_Lab1.genruntimeconfig.cache
